@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing desing 
 - 🌱 I’m currently learning more about it 
 - 💞️ I’m looking to collaborate on this site to share my ideas 
-- 📫 How to reach me [https://www.instagram.com/not_found_b_y/] or email ledupis2016@gmail.com
+
 
 <!---
 mohsen159/mohsen159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
